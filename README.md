@@ -1,55 +1,36 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
-
-[Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
-
-![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
-
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
-* Fork the repo
+First, run the development server:
 
-## Using the Template
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-The template is just a HTML file using a full CDN hosted Tailwind CSS file.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-To get the best out of Tailwind CSS, you need to really start customising it.
-Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-## Sites created using this template
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-* [AnonAddy.com](https://anonaddy.com)
-* [MentorCV.com](https://mentorcv.com)
-* [Nodewood.com](https://nodewood.com)
-* [X-Wing AI](https://xwing.app)
-* [Auto-Swiper](https://www.auto-swiper.ch)
-* [Hosted Git](https://hosted-git.com)
-* [Qiusheji](https://qiusheji.com)
+## Learn More
 
-## Bugs and Issues
+To learn more about Next.js, take a look at the following resources:
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Landing-Page/issues/new) here on GitHub.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Creator
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-[Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
+## Deploy on Vercel
 
-* https://twitter.com/tailwindtoolbox
-* https://twitter.com/amritnagi
-* https://github.com/tailwindtoolbox
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
-
-
-## Image Attribution
-
-[Hero vector created by freepik.com](https://www.freepik.com/free-vector/isometric-education-illustration_3940819.htm#page=1&query=isometric%20plane&position=1)
-
-Free for personal and commercial purpose with attribution
-
-## Copyright and License
-
-Copyright 2018-2022 Astrava.Solutions Ltd. Code released under the MIT license.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
